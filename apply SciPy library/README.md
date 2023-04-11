@@ -1,4 +1,3 @@
-### Apply 5 different optimization algorithm on the Rosenbrock function and compare their behaviors
 ### Results:
 #### 1. Total number of iterarions:
 1. BFGS: 35
